@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContohLatihan</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="hight">Tinggi</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+</resources>
